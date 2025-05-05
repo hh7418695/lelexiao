@@ -10,15 +10,7 @@
 
 
 
-## 安装篇
-- [Linux环境安装](https://github.com/assimon/dujiaoka/wiki/linux_install)
-- [Docker安装](https://github.com/assimon/dujiaoka/wiki/docker_install)
-- [2.x版本宝塔安装教程](https://github.com/assimon/dujiaoka/wiki/2.x_bt_install)
-- [1.x版本宝塔环境安装](https://github.com/assimon/dujiaoka/wiki/1.x_bt_install)
-- [常见问题锦集-你遇到的问题大部分能在这里找到解决！！](https://github.com/assimon/dujiaoka/wiki/problems)
-- [系统升级](https://github.com/assimon/dujiaoka/wiki/update)
-- [各支付对应后台配置](https://github.com/assimon/dujiaoka/wiki/problems#各支付对应配置)
-- [视频教程及工具集合](https://pan.dujiaoka.com)
+
 
 ## 支付接口已集成
 - [x] 支付宝当面付
